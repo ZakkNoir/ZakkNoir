@@ -1,13 +1,7 @@
 
+![Zdeněk Kubánek – Software, AI & Technology](banner.png)
+
 <div align="center">
-
-# Zdeněk Kubánek
-
-### Independent Software Builder | AI & Machine Learning | Technology
-
-**Designing and building practical software, intelligent systems and digital products.**
-
-Based in the Czech Republic 🇨🇿
 
 [LinkedIn](https://www.linkedin.com/in/zdeněk-kubánek-2a0716265/) • [X / Twitter](https://x.com/ZdenekKubanek84) • [MARKCORE Technologies](https://www.markcore.cz) • [GENESIS Tattoo](https://www.genesistattoo.cz)
 
