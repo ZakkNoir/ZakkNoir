@@ -3,7 +3,10 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/zdeněk-kubánek-2a0716265/) • [X / Twitter](https://x.com/ZdenekKubanek84) • [MARKCORE Technologies](https://www.markcore.cz) • [GENESIS Tattoo](https://www.genesistattoo.cz)
+**[💼 LinkedIn](https://www.linkedin.com/in/zdeněk-kubánek-2a0716265/)** &nbsp; | &nbsp;
+**[𝕏 X / Twitter](https://x.com/ZdenekKubanek84)** &nbsp; | &nbsp;
+**[⚙️ MARKCORE Technologies](https://www.markcore.cz)** &nbsp; | &nbsp;
+**[✒️ GENESIS Tattoo](https://www.genesistattoo.cz)**
 
 </div>
 
@@ -11,112 +14,272 @@
 
 ## 👋 About Me
 
-I'm an independent software builder and entrepreneur with a strong interest in artificial intelligence, machine learning, software architecture and practical automation.
+I'm an independent software builder and entrepreneur based in the Czech Republic.
 
-My background combines more than two decades of hands-on creative work, business operations and industrial technology with the development of my own software products.
+I design and develop software connecting **artificial intelligence, practical automation, business operations and real-world technology**.
 
-I focus on creating applications that solve real problems — from AI-powered desktop tools and mobile platforms to business management systems and reusable software infrastructure.
+My background combines over two decades of creative work and business experience with industrial technology and the development of my own software systems.
 
-I believe that technology should be **practical, reliable, understandable and genuinely useful**.
+My primary interests include artificial intelligence, machine learning, computer vision, software architecture, desktop and mobile applications, and industrial automation.
 
----
-
-## 🚀 Projects I'm Building
-
-### 🧠 LAUNIRA AI Studio
-**Artificial Intelligence & Machine Learning**
-
-A desktop software project focused on working with machine learning models, datasets, annotation workflows and multimodal AI capabilities.
-
-Areas of development include:
-- Computer vision and image analysis
-- Audio and video processing
-- Dataset preparation and annotation
-- Model experimentation and evaluation
-- Local AI processing and practical user interfaces
-
-### 🏗️ Universal Core
-**Software Architecture & Infrastructure**
-
-A modular software foundation exploring reusable components, system architecture, automated verification and reliable development workflows.
-
-The goal is to build a reusable foundation for developing and maintaining complex software products.
-
-### 📱 GENESIS Software Ecosystem
-**Mobile Applications & Business Technology**
-
-An interconnected software ecosystem supporting real-world studio operations.
-
-Key areas include:
-- Mobile applications
-- Appointment and booking management
-- Business administration and workflows
-- Digital consent and document processing
-- Secure communication and customer services
-
-### 📊 LAUNIRA Finance Core
-**Personal Finance Software**
-
-A personal finance application project focused on financial organization, budgeting, data processing and tools for better financial decision-making.
-
-### ⚙️ MARKCORE Technologies
-**Industrial Technology & Automation**
-
-Practical industrial laser marking, manufacturing processes and technology-driven business solutions.
-
-A direct connection between software development, precision manufacturing and real-world operational requirements.
+**My goal is simple: build useful, reliable technology that works beyond demonstrations.**
 
 ---
 
-## 🛠️ Technologies & Areas of Interest
+## 🚀 Featured Software Projects
 
-| Area | Technologies & Interests |
+Independent software projects at different stages of development, spanning AI, mobile applications, software infrastructure and financial technology.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 LAUNIRA AI Studio</h3>
+
+<strong>AI & Machine Learning Platform</strong>
+
+<p>A desktop platform for working with datasets, machine learning models and multimodal artificial intelligence.</p>
+
+<p><strong>Key areas:</strong></p>
+
+<ul>
+<li>Computer vision and annotation</li>
+<li>Audio and video processing</li>
+<li>Dataset management</li>
+<li>Local AI model workflows</li>
+<li>Model evaluation and experimentation</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏗️ Universal Core</h3>
+
+<strong>Software Architecture & Infrastructure</strong>
+
+<p>A modular software foundation for reusable capabilities, reliable development and complex software systems.</p>
+
+<p><strong>Key areas:</strong></p>
+
+<ul>
+<li>Modular architecture</li>
+<li>Reusable components</li>
+<li>Automated verification</li>
+<li>Testing and reliability</li>
+<li>Development infrastructure</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📱 GENESIS Ecosystem</h3>
+
+<strong>Mobile Apps & Business Technology</strong>
+
+<p>An interconnected ecosystem of mobile applications and administrative tools designed around real studio operations.</p>
+
+<p><strong>Key areas:</strong></p>
+
+<ul>
+<li>Mobile applications</li>
+<li>Bookings and appointments</li>
+<li>Business administration</li>
+<li>Digital consent and documents</li>
+<li>Secure communication</li>
+<li>Payments and workflows</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 LAUNIRA Finance Core</h3>
+
+<strong>Personal Finance & Financial Intelligence</strong>
+
+<p>A personal finance application designed to organize financial information and support better everyday decisions.</p>
+
+<p><strong>Key areas:</strong></p>
+
+<ul>
+<li>Transactions and budgeting</li>
+<li>Receipts and OCR processing</li>
+<li>Financial data organization</li>
+<li>Import and backup workflows</li>
+<li>Analysis and scenario planning</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Industrial Technology – MARKCORE
+
+**Precision Manufacturing · Laser Technology · Automation**
+
+Alongside software development, I work with industrial technologies through MARKCORE Technologies.
+
+This provides a direct connection between software engineering and practical industrial processes.
+
+**Areas of activity:**
+
+- Fiber and CO₂ laser marking
+- Industrial identification and precision marking
+- Manufacturing process development
+- Process automation
+- Machine vision and inspection concepts
+- Practical industrial technology integration
+
+🌐 **[Explore MARKCORE Technologies →](https://www.markcore.cz)**
+
+---
+
+## 🛠️ Technology Stack
+
+The programming languages, frameworks and tools used across my software projects.
+
+### Programming Languages
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="56" height="56" alt="Python" />
+<br />
+<strong>Python</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" width="56" height="56" alt="Dart" />
+<br />
+<strong>Dart</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="56" height="56" alt="TypeScript" />
+<br />
+<strong>TypeScript</strong>
+</td>
+</tr>
+</table>
+
+### Frameworks & Application Development
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="56" height="56" alt="Flutter" />
+<br />
+<strong>Flutter</strong>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="56" height="56" alt="Next.js" />
+<br />
+<strong>Next.js</strong>
+</td>
+</tr>
+</table>
+
+### Development Tools & Databases
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" alt="Git" />
+<br />
+<strong>Git</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" height="56" alt="GitHub" />
+<br />
+<strong>GitHub</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="56" height="56" alt="SQLite" />
+<br />
+<strong>SQLite</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" alt="VS Code" />
+<br />
+<strong>VS Code</strong>
+</td>
+</tr>
+</table>
+
+### AI, Engineering & Technical Interests
+
+| Field | Focus |
 |---|---|
-| AI & Machine Learning | Model workflows, computer vision, audio analysis, datasets |
-| Mobile Development | Flutter, Dart |
-| Web Development | TypeScript, Next.js |
-| Software Engineering | Architecture, modular systems, testing, automation |
-| Data Processing | Python, SQL, structured data |
-| Development Tools | Git, GitHub, AI-assisted development |
-| Industrial Technology | Laser marking, automation, machine vision |
+| 🧠 **Artificial Intelligence** | Local AI systems, model workflows, practical applications |
+| 🔬 **Machine Learning** | Model experimentation, evaluation and datasets |
+| 👁️ **Computer Vision** | Image analysis, annotation and visual inspection |
+| 🎧 **Multimodal Processing** | Audio, video and image workflows |
+| 🏗️ **Software Architecture** | Reusable components, modular systems and testing |
+| ⚙️ **Industrial Technology** | Laser marking, automation and machine vision |
 
 ---
 
-## 💡 My Approach
+## 💡 Engineering Philosophy
 
-My development philosophy is built around a few principles:
+My approach to software development is shaped by practical experience, continuous experimentation and an interest in how complex systems work.
 
-**Build for real use.** Software should solve actual problems rather than exist only as a demonstration.
+**01 · Build for real use**
 
-**Understand the system.** Architecture, testing, maintainability and measurable results matter.
+Software should solve actual problems, not exist only as a technical demonstration.
 
-**Learn by building.** Experimentation, continuous improvement and hands-on development are central to my work.
+**02 · Verify what works**
 
-**Connect different disciplines.** Valuable ideas often emerge where software meets manufacturing, creative work and everyday operations.
+Testing, measurement, reliability and repeatability are essential to meaningful progress.
+
+**03 · Learn through building**
+
+Experimentation, development and continuous improvement are central to my work.
+
+**04 · Connect different disciplines**
+
+Some of the most valuable ideas emerge where software meets manufacturing, creative work and everyday business operations.
 
 ---
 
-## 🔒 About My Repositories
+## 🔐 Development & Repositories
 
-Many of my software projects are developed in private repositories.
+Many of my projects are developed in private repositories.
 
-This GitHub profile serves as a public introduction to my work, technical interests and ongoing projects. Private repositories and proprietary source code are not automatically published here.
+This GitHub profile serves as a public introduction to my technical work, independent development activities and areas of interest.
+
+Selected project information may be shared publicly while proprietary source code remains private.
 
 ---
 
-## 🌐 Connect
+## 🌍 Connect & Collaborate
 
-I'm interested in exchanging ideas about applied AI, software engineering, independent product development and practical technology.
+I'm interested in exchanging ideas and connecting with people working in applied AI, software engineering, intelligent systems and practical technology.
 
-- **LinkedIn:** [Zdeněk Kubánek](https://www.linkedin.com/in/zdeněk-kubánek-2a0716265/)
-- **X:** [@ZdenekKubanek84](https://x.com/ZdenekKubanek84)
-- **MARKCORE:** [markcore.cz](https://www.markcore.cz)
-- **GENESIS:** [genesistattoo.cz](https://www.genesistattoo.cz)
+**Professional network**
+
+[LinkedIn – Zdeněk Kubánek](https://www.linkedin.com/in/zdeněk-kubánek-2a0716265/)
+
+**Technical discussions & updates**
+
+[X – @ZdenekKubanek84](https://x.com/ZdenekKubanek84)
+
+**Industrial technology**
+
+[MARKCORE Technologies](https://www.markcore.cz)
+
+**Creative work & business technology**
+
+[GENESIS Tattoo & Piercing](https://www.genesistattoo.cz)
 
 ---
 
 <div align="center">
 
-*Building, learning and improving — one project at a time.*
+### BUILD · LEARN · VERIFY · IMPROVE
+
+*Independent development. Practical technology. Continuous progress.*
+
+**Zdeněk Kubánek · Czech Republic**
 
 </div>
